@@ -15,8 +15,16 @@
   Solving complex challenges, blending creativity and technical expertise to deliver impactful solutions.  
 
 - 💼 **Professional Experience:**  
-  - RPG and CLP Developer at Aman, where I led the development of a React and PHP-based mapping project integrated with DB2.  
-  - Successfully delivered a proof of concept for a GPS-based route planning tool, which was well-received by clients.  
+  - **Software Developer at Aman:**  
+    - Led the development of a React and PHP-based mapping project integrated with a DB2 relational database.  
+    - Delivered a proof of concept for a GPS-based route planning tool, successfully sold to clients.  
+    - Contributed to RPGLE and CLP programming projects.  
+  - **Software Developer at Seagate:**  
+    - Designed and developed tools to support the Seagate S3 cloud community.  
+    - Created solutions that streamlined workflows and enhanced user engagement.  
+  - **Software Developer at Seal:**  
+    - Patched security vulnerabilities in JavaScript across various legacy applications.  
+    - Worked on systems built on multiple versions of npm and Node.js, ensuring compatibility and stability.  
 
 - 📫 **Contact Me:**  
   [leonmarkovich97@gmail.com](mailto:leonmarkovich97@gmail.com)  
@@ -27,4 +35,3 @@
 ---
 
 ✨ *Let’s connect and build something incredible together!* 🚀
-
