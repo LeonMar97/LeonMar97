@@ -1,8 +1,30 @@
-### Hi there 👋
-### I'm Leon, a recent graduate with a passion for coding and problem-solving.
-- 🔭 Currently working on 100 Python projects through a Udemy course.
-- 🌱 Learning about Backend, Automation, Cybersecurity, with a focus on ethical hacking, and tackling 50 LeetCode Top Interview Questions (43 completed).
-- 💡 I thrive on finding solutions to challenging problems.
-- 💼 Actively seeking opportunities to contribute my skills to real-world projects.
-- 📫 How to reach me: leonmarkovich97@gmail.com
-- 💬 Open to helping and contributing code to exciting projects. Let's collaborate!
+# Hi there! 👋  
+### I'm Leon, a passionate software developer with a love for creating innovative solutions.
+
+- 🔭 **Current Projects:**  
+  - **Full-Stack Landing Page and Shop:** Built with React for the frontend and Express for the backend.  
+  - **GPS-Based Mapping Project:** A React and PHP application with a DB2 relational database, integrating route planning and real-time map functionalities.  
+
+- 🌱 **Learning Focus:**  
+  - Backend development: FastAPI, Express, PHP.  
+  - Testing frameworks: Pytest, Jest.  
+  - CI/CD pipelines: GitHub Actions, Travis.  
+  - Linting and formatting tools: ruff, Black, eslint.  
+
+- 💡 **What Drives Me:**  
+  Solving complex challenges, blending creativity and technical expertise to deliver impactful solutions.  
+
+- 💼 **Professional Experience:**  
+  - RPG and CLP Developer at Aman, where I led the development of a React and PHP-based mapping project integrated with DB2.  
+  - Successfully delivered a proof of concept for a GPS-based route planning tool, which was well-received by clients.  
+
+- 📫 **Contact Me:**  
+  [leonmarkovich97@gmail.com](mailto:leonmarkovich97@gmail.com)  
+
+- 💬 **Let’s Collaborate:**  
+  I’m always eager to contribute to exciting projects or assist with solving challenging problems.  
+
+---
+
+✨ *Let’s connect and build something incredible together!* 🚀
+
